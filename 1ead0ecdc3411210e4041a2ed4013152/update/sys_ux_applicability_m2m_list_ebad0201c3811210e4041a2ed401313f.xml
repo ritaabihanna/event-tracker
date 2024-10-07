@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="NeedIt Audience">27adcecdc3411210e4041a2ed40131c8</applicability>
+        <list display_value="Closed">67ad0201c3811210e4041a2ed401313d</list>
+        <order>0</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-03 06:34:33</sys_created_on>
+        <sys_id>ebad0201c3811210e4041a2ed401313f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_1538893_needit">1ead0ecdc3411210e4041a2ed4013152</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">1ead0ecdc3411210e4041a2ed4013152</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_ebad0201c3811210e4041a2ed401313f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-03 06:34:33</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

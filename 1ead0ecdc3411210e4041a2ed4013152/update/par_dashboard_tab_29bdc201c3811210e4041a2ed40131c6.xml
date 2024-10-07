@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="NeedIt Requests">d9bdce89c3411210e4041a2ed4013175</dashboard>
+        <name>New Tab 2</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-03 06:34:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>29bdc201c3811210e4041a2ed40131c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_1538893_needit">1ead0ecdc3411210e4041a2ed4013152</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">1ead0ecdc3411210e4041a2ed4013152</sys_scope>
+        <sys_update_name>par_dashboard_tab_29bdc201c3811210e4041a2ed40131c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-03 06:34:41</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>

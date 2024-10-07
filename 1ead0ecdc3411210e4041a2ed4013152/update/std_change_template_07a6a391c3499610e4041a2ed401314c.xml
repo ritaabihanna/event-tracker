@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="std_change_template">
+    <std_change_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <global>true</global>
+        <group/>
+        <groups/>
+        <link_element/>
+        <name>End-of-Life Server Equipment Management</name>
+        <next/>
+        <next_child/>
+        <roles/>
+        <short_description>End-of-Life Server Equipment Management</short_description>
+        <show_on_template_bar>false</show_on_template_bar>
+        <stand_alone>false</stand_alone>
+        <sys_class_name>std_change_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-04 07:41:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>07a6a391c3499610e4041a2ed401314c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>End-of-Life Server Equipment Management</sys_name>
+        <sys_package display_value="NeedIt" source="x_1538893_needit">1ead0ecdc3411210e4041a2ed4013152</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">1ead0ecdc3411210e4041a2ed4013152</sys_scope>
+        <sys_update_name>std_change_template_07a6a391c3499610e4041a2ed401314c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-04 07:41:51</sys_updated_on>
+        <table>change_request</table>
+        <template>short_description=Managing EOL servers by decommissioning and replacing outdated equipment to ensure security.^description=Managing end-of-life (EOL) servers involves identifying outdated equipment and ensuring secure decommissioning and replacement to maintain system performance and security.^implementation_plan=Inventory Assessment: Identify servers nearing EOL through a detailed review.&#13;
+Risk Evaluation: Assess operational and security risks linked to EOL servers.&#13;
+Replacement Plan: Schedule replacements or release EOL servers for SCZ Users.&#13;
+Decommissioning: Release machines via pipeline for 5 days, then allocate to a specific target.&#13;
+Monitoring: Collect all EOL servers and send them to DCops based on vCenter data.^backout_plan=No blackout plan^test_plan=No test needed^EQ</template>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+        <view/>
+    </std_change_template>
+</record_update>
